@@ -18,5 +18,5 @@ jobs:
 
       - run: python tracker.py
         env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
+          BOT_TOKEN: ${{ 8715119832:AAGDoOkiHjeKZFMa9yT6t1oLo8k3G4AvRZc }}
+          CHAT_ID: ${{ 5654462790 }}
